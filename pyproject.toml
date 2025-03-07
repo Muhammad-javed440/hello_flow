@@ -11,6 +11,7 @@ dependencies = [
 [project.scripts]
 kickoff = "hello_flow.main:kickoff"
 kickoff1 = "hello_flow.main1:kickoff1"
+kickoff2 = "hello_flow.main2:kickoff2"
 plot = "hello_flow.main:plot"
 
 [build-system]
